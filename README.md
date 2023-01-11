@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rezowana Akter</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left" class="m-2"> <img src="https://komarev.com/ghpvc/?username=raakter&label=Profile%20views&color=0e75b6&style=flat" alt="raakter" /> </p>
+<p align="left" class="m-2"> <img class="m-2" src="https://komarev.com/ghpvc/?username=raakter&label=Profile%20views&color=0e75b6&style=flat" alt="raakter" /> </p>
 
-<p align="left" class="m-2"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raakter" alt="raakter" /></a> </p>
+<p align="left" class="m-2"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img class="m-2" src="https://github-profile-trophy.vercel.app/?username=raakter" alt="raakter" /></a> </p>
 
 - 🔭 I’m currently working on **Laravel, PHP, JavaScript and React Js**
 
