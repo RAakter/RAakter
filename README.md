@@ -35,14 +35,14 @@
 
 <div class="container">
     <div class="row">
-      <div class="col-3">
-        <p><img align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raakter&show_icons=true&locale=en&layout=compact"                         alt="raakter"/></p>
+      <div class="col card">
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raakter&show_icons=true&locale=en&layout=compact"                         alt="raakter"/></p>
       </div>
-      <div class="col-3">
-        <p>&nbsp;<img align="center" width="25%" src="https://github-readme-stats.vercel.app/api?username=raakter&show_icons=true&locale=en" alt="raakter"/></p>
+      <div class="col card">
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raakter&show_icons=true&locale=en" alt="raakter"/></p>
       </div>
-      <div class="col-3">
-        <p><img align="center" width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=raakter&" alt="raakter" /></p>
+      <div class="col card">
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raakter&" alt="raakter" /></p>
       </div>
     </div>
 
