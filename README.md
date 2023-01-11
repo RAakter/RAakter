@@ -29,14 +29,14 @@
 
 <div class="col-12">
     <div class="row">
-      <div class="col-3">
+      <div class="col-12">
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raakter&show_icons=true&locale=en&layout=compact"                         alt="raakter"/>
         </p>
       </div>
-      <div class="col-6">
+      <div class="col-1">
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raakter&show_icons=true&locale=en" alt="raakter" /></p>
       </div>
-      <div class="col-3">
+      <div class="col-1">
         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raakter&" alt="raakter" /></p>
       </div>
     </div>
